@@ -57,4 +57,4 @@ Visual comparison of cross-identity audio-driven talking head generation. Cross-
   <img src="/static/image/teeth-lip_ablation.svg" alt="Turing Machine" width="45%">
   <img src="/static/image/wrinkles-eyes_ablation.svg" alt="Turing Machine" width="45%">
 </div>
-```
+
