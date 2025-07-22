@@ -41,12 +41,14 @@ A global Head-Region Cross-Attention is introduced to ensure motion continuity a
 ## Video
 <video src="static\image\video_demo.mp4" controls width="1280"></video>
 
-##  Comparison
-Self-Driven Setting
+
+## Self-Driven Setting
+Qualitative comparison of talking head generation across methods. We compare our method with several baselines on four key head regions: mouth shape, wrinkles, hair details, and eye blinking. Red dashed boxes highlight areas with noticeable deviations from the ground truth.
 ![Turing Machine](/static\image\Self-Driven.svg)
 
 
-Cross-Driven Setting
+## Cross-Driven Setting
+Visual comparison of cross-identity audio-driven talking head generation. Cross-identity driving results on two unseen subjects. The reference column shows ground-truth frames of the original speakers, while the remaining columns show rendered results from different methods using the same audio. 
 ![Turing Machine](/static\image\Cross-Driven.svg)
 
 ## Ablation Study
